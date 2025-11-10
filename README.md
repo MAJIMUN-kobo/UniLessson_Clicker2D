@@ -1,4 +1,6 @@
 # クリッカーゲーム
+## 📦パッケージ
+サンプルパッケージ 👉 [ここからどうぞ](https://github.com/MAJIMUN-kobo/UniLessson_Clicker2D/releases/tag/Package)
   
 ## 🎮 ゲーム  
 ゲームで遊ぶ 👉 [ここからどうぞ](https://majimun-kobo.github.io/unilesson.github.io/unilesson/games/uni_clicker2D/)
